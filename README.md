@@ -1,5 +1,5 @@
 - Hello, I’m Lome
-- I’m currently workin in my CS:GO cfg
+- I’m currently working on my CS:GO cfg
 - Trying to start learning programing 😅
 
 <!---
